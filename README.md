@@ -2,4 +2,6 @@
 
 Primeiro repositório
 
-Repositório criado para teste
+Repositório criado para teste.
+
+Linha de teste adicionada pelo GitHub.
